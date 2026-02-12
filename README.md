@@ -1,5 +1,3 @@
-# -DSAI4201_SelectedTopics_Streamlit
-
 # Information Retrieval App using Document Embeddings
 
 This project is a simple Information Retrieval (IR) web application built with **Streamlit**.  
